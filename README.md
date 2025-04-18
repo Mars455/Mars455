@@ -19,5 +19,4 @@ I am looking at learning C++ with my C# knowledge to potentially look at develop
 Want to look into Java also to pursue my yearlong dream of making a mod for Minecraft!
 Happy to chat, add me on discord under the same username! @Mars455
 
-My other account is: @Mars455BP[https://github.com/Mars455BP] 
-This was for my A-Level, including projects such as my NEA and Student Robotics 2023 Prep
+

@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hey! My name is Mark, and I am from the UK. I am currently an IT Apprentice, looking to get into the developer world. 
-I am looking at learning C++ with my C# knowledge to potentially look at developing in UE5 in the future.
-Want to look into Java also to pursue my yearlong dream of making a mod for Minecraft!
+Hey! My name is Mark, and I am from the UK. I am currently working in IT Support, looking to get into the developer world. 
+Recently, I have been working on a Minecraft Mod (Java) and my own Website.
+I've also been setting up my server using proxmox/
 Happy to chat, add me on discord under the same username! @Mars455
 
 

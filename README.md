@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hey! My name is Mark, and I am from the UK. I am currently working in IT Support, looking to get into the developer world. 
-Recently, I have been working on a Minecraft Mod (Java) and my own Website.
-I've also been setting up my server using proxmox/
+Hey! My name is Mark, and I am from the UK. I am currently working in IT Support, looking to get into the developer world. </br>
+Recently, I have been working on a Minecraft Mod (Java) and my own Website. </br>
+I've also been setting up my server using proxmox. </br>
 Happy to chat, add me on discord under the same username! @Mars455
 
 

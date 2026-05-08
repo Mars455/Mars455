@@ -13,9 +13,7 @@ I've also been setting up my server using proxmox. </br>
 Happy to chat, add me on discord under the same username! @Mars455
 _
 
-- 🔭 I’m currently working on lightning-mod
-- 🌱 I’m currently learning Java
-- 🤔 I’m looking for help with dual wielded weapons (in Minecraft)
-- 📫 How to reach me: Discord/Mars455, Mail/mark@mars455.dev, 
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I've been dreaming of making a minecraft mod for ~ 5 years, and now I have free time, I have started working on it! 
+
+-  How to reach me: Discord/Mars455, Mail/mark@mars455.dev, 
+-  Pronouns: he/him
+
